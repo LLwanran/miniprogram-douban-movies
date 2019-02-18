@@ -1,0 +1,25 @@
+<view class="weapp-about">
+  <view class="weapp-name">豆瓣电影API</view>
+  <view class="webapp-intro">
+    <view class="webapp-intro-item">
+      <view class="webapp-intro-title">此项目所使用到的API</view>
+      <view class="webapp-intro-content">wx.request - 发起 HTTPS 网络请求</view>
+      <view class="webapp-intro-content">wx.chooseImage - 从本地相册选择图片或使用相机拍照</view>
+      <view class="webapp-intro-content">wx.previewImage - 在新页面中全屏预览图片。预览的过程中用户可以进行保存图片、发送给朋友等操作</view>
+      <view class="webapp-intro-content">wx.saveFile - 保存文件到本地</view>
+      <view class="webapp-intro-content">wx.getStorage - 从本地缓存中异步获取指定 key 的内容</view>
+      <view class="webapp-intro-content">wx.setStorage - 将数据存储在本地缓存中指定的 key 中</view>
+      <view class="webapp-intro-content">wx.clearStorage - 清理本地数据缓存</view>
+      <view class="webapp-intro-content">wx.getStorageInfo - 异步获取当前storage的相关信息</view>
+      <view class="webapp-intro-content">wx.getLocation - 获取当前的地理位置、速度</view>
+      <view class="webapp-intro-content">wx.getSystemInfo - 获取系统信息</view>
+      <view class="webapp-intro-content">wx.showToast - 显示消息提示框</view>
+      <view class="webapp-intro-content">wx.showModal - 显示模态对话框</view>
+      <view class="webapp-intro-content">wx.setNavigationBarTitle - 动态设置当前页面的标题</view>
+      <view class="webapp-intro-content">wx.navigateTo - 保留当前页面，跳转到应用内的某个页面</view>
+      <view class="webapp-intro-content">wx.redirectTo - 关闭当前页面，跳转到应用内的某个页面</view>
+      <view class="webapp-intro-content">wx.login - 调用接口获取登录凭证（code）</view>
+      <view class="webapp-intro-content">......</view>
+    </view>
+  </view>
+</view>
